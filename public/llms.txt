@@ -51,6 +51,7 @@ Information about WCAG compliance and accessibility features.
 - Email: shirtal.makeup@gmail.com
 - Phone: +972529598666
 - Phone (tel): tel:+972529598666
+- Address: השרון
 
 ### Contact form
 - URL: https://example.com/contact
