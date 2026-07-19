@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://shirtal-makeup-f19c1a69.zappy5.app
+https://example.com
 מאפרת מקצועית לשינוי מראה מושלם. שירותי איפור עילית לאירועים, כלות ויופי יומיומי. הזמיני תור עוד היום והתחילי לזרוח בביטחון!
 
 ### שירותים
-https://shirtal-makeup-f19c1a69.zappy5.app/services
+https://example.com/services
 מאיפור כלות חלומי ועד לוק טבעי מנצח – גלי חבילות איפור מותאמות אישית. שדרגי את המראה שלך עם נגיעה אמנותית שמדגישה את true beauty makeup שבך!
 
 ### תיק עבודות
-https://shirtal-makeup-f19c1a69.zappy5.app/portfolio
+https://example.com/portfolio
 צללי לעבודות איפור מרהיבות: מלוק טבעי ועד מראה דרמטי. כל תמונה מספרת סיפור של אומנות, דיוק ו-true beauty makeup. קבלי השראה למראה הבא שלך!
 
 ### אודות
-https://shirtal-makeup-f19c1a69.zappy5.app/about
+https://example.com/about
 מאפרת מקצועית עם תשוקה להדגשת יופי טבעי. סיפור המסע שלי לעולם האיפור, הפילוסופיה של true beauty makeup, והמחויבות להפוך כל פנים ליצירת אומנות.
 
 ### צור קשר
-https://shirtal-makeup-f19c1a69.zappy5.app/contact
+https://example.com/contact
 מוכנה לשינוי? השאירי פרטים לתיאום פגישת ייעוץ אישית. בואי נדבר על איך להפוך את true beauty makeup שלך למציאות מהממת. מקום שבו היופי פוגש מקצועיות.
 
 ### תודה - Shirtal makeup
-https://shirtal-makeup-f19c1a69.zappy5.app/thank-you
+https://example.com/thank-you
 Shirtal makeup - תודה - Shirtal makeup
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://shirtal-makeup-f19c1a69.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://shirtal-makeup-f19c1a69.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://shirtal-makeup-f19c1a69.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://shirtal-makeup-f19c1a69.zappy5.app/contact
-- Endpoint: https://shirtal-makeup-f19c1a69.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -80,6 +80,6 @@ Beauty & Makeup
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://shirtal-makeup-f19c1a69.zappy5.app/sitemap.xml
-- Robots: https://shirtal-makeup-f19c1a69.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://shirtal-makeup-f19c1a69.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
