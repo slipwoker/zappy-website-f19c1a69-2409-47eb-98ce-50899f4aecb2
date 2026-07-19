@@ -1,0 +1,85 @@
+# Shirtal makeup — Generative Engine Optimization Map
+
+> A professional makeup artist business offering beauty and cosmetic services. The brand centers around professional artistry, transformation, and beauty enhancement for clients.
+
+---
+
+## Pages
+
+### בית
+https://shirtal-makeup-f19c1a69.zappy5.app
+מאפרת מקצועית לשינוי מראה מושלם. שירותי איפור עילית לאירועים, כלות ויופי יומיומי. הזמיני תור עוד היום והתחילי לזרוח בביטחון!
+
+### שירותים
+https://shirtal-makeup-f19c1a69.zappy5.app/services
+מאיפור כלות חלומי ועד לוק טבעי מנצח – גלי חבילות איפור מותאמות אישית. שדרגי את המראה שלך עם נגיעה אמנותית שמדגישה את true beauty makeup שבך!
+
+### תיק עבודות
+https://shirtal-makeup-f19c1a69.zappy5.app/portfolio
+צללי לעבודות איפור מרהיבות: מלוק טבעי ועד מראה דרמטי. כל תמונה מספרת סיפור של אומנות, דיוק ו-true beauty makeup. קבלי השראה למראה הבא שלך!
+
+### אודות
+https://shirtal-makeup-f19c1a69.zappy5.app/about
+מאפרת מקצועית עם תשוקה להדגשת יופי טבעי. סיפור המסע שלי לעולם האיפור, הפילוסופיה של true beauty makeup, והמחויבות להפוך כל פנים ליצירת אומנות.
+
+### צור קשר
+https://shirtal-makeup-f19c1a69.zappy5.app/contact
+מוכנה לשינוי? השאירי פרטים לתיאום פגישת ייעוץ אישית. בואי נדבר על איך להפוך את true beauty makeup שלך למציאות מהממת. מקום שבו היופי פוגש מקצועיות.
+
+### תודה - Shirtal makeup
+https://shirtal-makeup-f19c1a69.zappy5.app/thank-you
+Shirtal makeup - תודה - Shirtal makeup
+
+## Legal & Policy
+
+### Privacy Policy
+https://shirtal-makeup-f19c1a69.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://shirtal-makeup-f19c1a69.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://shirtal-makeup-f19c1a69.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://shirtal-makeup-f19c1a69.zappy5.app/contact
+- Endpoint: https://shirtal-makeup-f19c1a69.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Shirtal makeup
+A professional makeup artist business offering beauty and cosmetic services. The brand centers around professional artistry, transformation, and beauty enhancement for clients.
+
+## Target Audience
+- איפור כלות
+- איפור לאירוע
+
+## Industry
+Beauty & Makeup
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://shirtal-makeup-f19c1a69.zappy5.app/sitemap.xml
+- Robots: https://shirtal-makeup-f19c1a69.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://shirtal-makeup-f19c1a69.zappy5.app/llms-full.txt
